@@ -1,6 +1,6 @@
 [![MasterHead](https://exceltable.com/en/templates/images/template6-1.gif)](https://github.com/w1zy)
 
-<h1 align="center">Hi 👋, I'm Shruti</h1>
+<h1 align="center">Hi 👋, I'm w1zy</h1>
 
 <h3 align="center">Exploring the wonders of data with a curious mind and a passion for data science.</h3>
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Anything**
-
-- 📫 How to reach me **shrutik0369@gmail.com**
 
 - ⚡ Fun fact **I like nature.**
 
